@@ -1,2 +1,6 @@
-# hello-world
-Hello World has a short Discription
+hello-world
+======================
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that´s....
